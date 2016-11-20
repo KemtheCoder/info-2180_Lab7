@@ -1,0 +1,11 @@
+body {
+    color: blue;
+}
+
+h1{
+    color: #5043E6;
+    font-size: 50px;
+    margin: 10px;
+    background: linear-gradient(to bottom right, #5043E6, white) ;
+    ;
+}
